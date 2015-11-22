@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Shift Google",
-    "description": "This extension shifts the Google logo to right.",
+    "description": "This extension shifts the Google.",
     "version": "1.0",
     "content_scripts": [
         {

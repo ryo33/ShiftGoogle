@@ -5,7 +5,7 @@
     "version": "1.0",
     "content_scripts": [
         {
-            "matches": ["https://www.google.co.jp/*"],
+            "matches": ["https://www.google.co.jp/*", "https://www.google.com/*"],
             "css": ["shift.css"]
         }
     ]

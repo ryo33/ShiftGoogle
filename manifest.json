@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Shift Google",
+    "description": "This extension shifts the Google logo to right.",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": ["https://www.google.co.jp/*"],
+            "css": ["shift.css"]
+        }
+    ]
+}

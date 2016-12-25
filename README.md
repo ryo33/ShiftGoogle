@@ -4,9 +4,7 @@ Shifts the Google
 
 ## Install
 
-1. Clone this.
-2. Open chrome's extensions page.
-3. Turn on developer mode and load the cloned repository as an unpacked extension.
+[https://chrome.google.com/webstore/detail/shift-google/njbpfdiodmegnddndogjbjeiplpiaodf](https://chrome.google.com/webstore/detail/shift-google/njbpfdiodmegnddndogjbjeiplpiaodf)
 
 ## Usage
 
